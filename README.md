@@ -83,3 +83,34 @@
   </footer>
 </body>
 </html>
+<section>
+  <h2>Specialized Vehicle Services</h2>
+
+  <article>
+    <h3><a href="https://www.hyundai.com/worldwide/en/service" target="_blank" rel="noopener noreferrer">Hyundai Special Service</a></h3>
+    <p>
+      At PartNest, we provide expert support and genuine spare parts for Hyundai vehicles. Our partnership ensures that Hyundai owners receive authentic components and specialized maintenance solutions designed to maximize vehicle performance, safety, and longevity.
+    </p>
+  </article>
+
+  <article>
+    <h3><a href="https://global.geely.com/service" target="_blank" rel="noopener noreferrer">Geely Special Service</a></h3>
+    <p>
+      Dedicated to the unique engineering of Geely vehicles, our service team offers tailored parts and professional advice to keep your Geely running at peak efficiency. Count on PartNest for reliable access to Geely-approved components and timely service support.
+    </p>
+  </article>
+
+  <article>
+    <h3><a href="https://www.changan.com/global/service" target="_blank" rel="noopener noreferrer">Changan Special Service</a></h3>
+    <p>
+      Our Changan Special Service is committed to delivering premium spare parts and maintenance solutions for Changan vehicles. Whether for routine servicing or complex repairs, we ensure that every Changan owner experiences superior service quality and genuine part availability.
+    </p>
+  </article>
+
+  <article>
+    <h3><a href="https://www.ford.com/service/" target="_blank" rel="noopener noreferrer">Ford Special Service</a></h3>
+    <p>
+      PartNest offers comprehensive service and genuine parts specifically for Ford vehicles. Our focus is on ensuring durability, safety, and performance by providing Ford-certified parts along with expert guidance tailored to the needs of Ford owners and mechanics.
+    </p>
+  </article>
+</section>
